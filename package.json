@@ -2,7 +2,7 @@
   "name": "flowerplant",
   "private": true,
   "version": "0.0.0",
-  "home": "https://flomurekian.github.io/flowerplant/",
+  "home": "https://flomurekian.github.io/flowerplant",
   "type": "module",
   "scripts": {
     "dev": "vite",
