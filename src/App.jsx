@@ -35,7 +35,7 @@ const router = createBrowserRouter([
 ],
 
 {
-  basename: "/flowerplant"
+  basename: "/flowerplant/"
 }
 );
 
